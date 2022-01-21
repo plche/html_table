@@ -1,0 +1,9 @@
+.wrapper {
+    width: 400px;
+    margin: 20px auto;
+}
+
+.thead-dark > tr > th {
+    color: #d8ad42;
+    background-color: #3c475e;
+}
